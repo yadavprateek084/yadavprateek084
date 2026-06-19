@@ -1,192 +1,214 @@
-```md
 <div align="center">
 
-# Hi 👋, I'm Prateek Yadav
+<!-- Typing animation banner -->
+<a href="https://github.com/yadavprateek084">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+Developer;Turning+Raw+Data+into+Business+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Open+to+Data+%2F+Business+Analyst+Roles" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Analyst;SQL+Developer+%7C+Analytics+Enthusiast;Python+%7C+Power+BI+%7C+PostgreSQL;Turning+Raw+Data+Into+Actionable+Insights" alt="Typing SVG" />
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=yadavprateek084&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+# Prateek Yadav
+
+**Data Analyst | SQL Developer | Business Analytics | Python**
+
+B.Tech in Computer Science Engineering · Fresher · India
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yadavprateek084.github.io/prateek-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavprateek084)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
----
+<br/>
 
-## 🚀 Professional Summary
+## 📌 About Me
 
-🎯 Fresher **Data Analyst** with a strong foundation in **SQL, Python, Power BI, and Data Analytics**.  
-Passionate about transforming raw datasets into meaningful business insights through **data cleaning, EDA, dashboarding, and analytical problem-solving**.
+```text
+🎯  Aspiring Data Analyst with a strong foundation in SQL, Python, and Business Intelligence
+📊  I turn messy, real-world data into clean dashboards and actionable business insights
+🧮  Comfortable across the full analytics lifecycle: extract → clean → analyze → visualize → report
+🏆  Microsoft Power BI Certified | Databricks AI Fundamentals Certified
+🌱  Actively building real-world projects in SQL, EDA, and Dashboarding
+🤝  Open to Data Analyst / Business Analyst / SQL Developer roles
+```
 
-I specialize in:
+<br/>
 
-✔ Writing optimized SQL queries  
-✔ Data cleaning & preprocessing  
-✔ Building dashboards in Power BI  
-✔ Exploratory Data Analysis (EDA)  
-✔ Business intelligence reporting  
-✔ Statistical analysis for decision-making  
+## 🟢 Open for Opportunities
 
-Currently focused on building **real-world analytics projects** and seeking opportunities in:
+<div align="center">
 
-- Data Analyst
-- Business Analyst
-- SQL Developer
-- Analytics Associate
-- Reporting Analyst
+| | |
+|---|---|
+| 🟢 **Status** | Actively seeking full-time opportunities |
+| 🎯 **Roles** | Data Analyst · Business Analyst · SQL Developer · Analytics Associate |
+| 📍 **Location** | India (Open to Remote / Relocation) |
+| 📩 **Reach me** | your.email@example.com |
 
----
+</div>
 
-## 💼 Open for Opportunities
+<br/>
 
-📌 Open to **Full-Time | Internship | Remote | Hybrid | On-site** roles across India.
+## 🛠️ Tech Stack & Tools
 
-📫 Reach me: **your-email@example.com**
+<div align="center">
 
----
+**Languages & Querying**
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/yadavprateek084" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://yadavprateek084.github.io/prateek-portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/>
-</a>
-</p>
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Databases
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Data Analysis & Libraries**
 
-### Data Analysis Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+**BI & Visualization**
 
----
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### BI & Analytics Tools
+**Core Competencies**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4B8BBE?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-3776AB?style=for-the-badge&logoColor=white)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-F2C811?style=for-the-badge&logoColor=black)
 
----
+**Tools**
 
-### Core Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-blue?style=for-the-badge)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-BI-green?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-Analytics-orange?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Preprocessing-red?style=for-the-badge)
+</div>
 
----
+<br/>
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Retail Sales SQL Analysis
-🔹 Advanced SQL analytics project focused on sales trends, KPIs, customer segmentation, and performance reporting.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 Repository:
-https://github.com/yadavprateek084/retail-sales-sql-analysis
+### 📦 Retail Sales SQL Analysis
+End-to-end SQL-driven analysis of retail transaction data — sales trends, top-performing products, and regional performance using advanced joins, window functions, and CTEs.
 
----
+**Stack:** `SQL` `PostgreSQL` `Data Analysis`
 
-### 👥 Customer Behaviour Analysis
-🔹 End-to-end analytics project involving customer segmentation, behavioral insights, and visualization.
+[🔗 View Repository](https://github.com/yadavprateek084)
 
-🔗 Repository:
-https://github.com/yadavprateek084/Customer_Behaviour_Analysis
+</td>
+<td width="50%" valign="top">
 
----
+### 🛒 Customer Behaviour Analysis
+Explored customer purchase patterns and segmentation using EDA and statistical analysis to surface actionable insights for retention and marketing strategy.
 
-### 💹 Mutual Fund Analytics Capstone
-🔹 Comprehensive ETL + SQL + Python project analyzing NAV trends, SIP inflows, holdings, and fund performance.
+**Stack:** `Python` `Pandas` `EDA` `Statistics`
 
-🔗 Repository:
-https://github.com/yadavprateek084/Mutual_Fund_Analytics
+[🔗 View Repository](https://github.com/yadavprateek084)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Mutual Fund Analytics Capstone
+Capstone project analyzing mutual fund performance metrics with interactive dashboards to support investment decision-making.
+
+**Stack:** `Power BI` `Excel` `Dashboarding`
+
+[🔗 View Repository](https://github.com/yadavprateek084)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧹 Data Cleaning & Preprocessing Project
-🔹 Real-world messy dataset cleaning using regex, null handling, outlier treatment, and type conversions.
+Built reusable preprocessing pipelines to handle missing values, outliers, and inconsistent formats — preparing raw datasets for downstream analysis.
 
-🔗 Repository:
-https://github.com/yadavprateek084
+**Stack:** `Python` `Pandas` `NumPy`
 
----
+[🔗 View Repository](https://github.com/yadavprateek084)
 
-## 📚 Certifications
-
-🏅 Microsoft Power BI Certification  
-🏅 Databricks AI Fundamentals Certification
-
----
-
-## 📖 Currently Learning
-
-📌 Advanced SQL Optimization  
-📌 Data Warehousing  
-📌 Power BI Advanced Dashboards  
-📌 Python for Automation  
-📌 Business Intelligence Best Practices  
-
----
-
-## 📈 GitHub Analytics
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadavprateek084&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavprateek084&layout=compact&theme=tokyonight&hide_border=true"/>
+📁 **Explore all projects on my [Portfolio Website](https://yadavprateek084.github.io/prateek-portfolio/)**
 
 </div>
 
----
+<br/>
 
-## 🔥 GitHub Streak
+## 🎓 Certifications
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=yadavprateek084&theme=tokyonight&hide_border=true" />
+[![Power BI](https://img.shields.io/badge/Microsoft-Power_BI_Associate-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)](https://github.com/yadavprateek084)
+[![Databricks](https://img.shields.io/badge/Databricks-AI_Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/yadavprateek084)
 
 </div>
 
----
+<br/>
 
-## 📊 Contribution Graph
+## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavprateek084&theme=tokyo-night&hide_border=true" />
+![Advanced SQL](https://img.shields.io/badge/Advanced_SQL_Optimization-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Applied_Statistics-013243?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 🎯 Career Objective
-
-To leverage my expertise in **SQL, Python, Power BI, and Analytics** to solve business problems, generate actionable insights, and contribute to data-driven decision-making in a growth-focused organization.
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### ⭐ "Data is the new oil, but insight is the refinery."
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yadavprateek084&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavprateek084&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavprateek084&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavprateek084&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
-```
+
+<br/>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing data analytics roles, internships, and collaboration opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yadavprateek084.github.io/prateek-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavprateek084)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yadavprateek084&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+
+<br/>
+
+⭐️ *Thanks for stopping by — let's turn data into decisions!*
+
+</div>
