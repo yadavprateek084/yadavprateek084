@@ -18,8 +18,7 @@ B.Tech in Computer Science Engineering · Fresher · India
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://yadavprateek084.github.io/prateek-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](  https://www.linkedin.com/in/prateek-yadav-408961277/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavprateek084)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavprateek084@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadavprateek084@gmail.com?subject=Opportunity%20Discussion)
 </div>
 
 <br/>
