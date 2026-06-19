@@ -46,7 +46,7 @@ B.Tech in Computer Science Engineering · Fresher · India
 | 🟢 **Status** | Actively seeking full-time opportunities |
 | 🎯 **Roles** | Data Analyst · Business Analyst · SQL Developer · Analytics Associate |
 | 📍 **Location** | India (Open to Remote / Relocation) |
-| 📩 **Reach me** | your.email@example.com |
+| 📩 **Reach me** | yadavprateek084@gmail.com |
 
 </div>
 
